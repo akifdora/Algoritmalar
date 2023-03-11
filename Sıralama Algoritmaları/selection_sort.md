@@ -5,7 +5,7 @@ Selection Sort (Seçmeli Sıralama) algoritmasında, her bir iterasyonda en kü�
 Selection Sort algoritmasında dizi içerisinde gezilip en küçük eleman bulunup birinci eleman olarak işaretlenir. Daha sonra diğerlerine bakılıp en küçük tespit edilip ikinci eleman olarak işaretlenir ve bu şekilde algoritma kendisini sonlandırana kadar devam eder.
 
 ## Örnek
-15,5,1,9 dizisini Selection Sort algoritması ile sıralamamız gerekirse;
+`15,5,1,9` dizisini Selection Sort algoritması ile sıralamamız gerekirse;
 
 1. Dizideki ilk elemanı minimum değer olarak kabul edip bu değerin dizinin tüm elemanları ile karşılaştırılmasını sağlayalım.
 2. 15 değeri diğer elemanlar ile karşılaştırılır ve hemen yanındaki 5 değeri daha küçük olduğundan artık yeni mininum değer 5 olur.
