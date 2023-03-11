@@ -1,4 +1,4 @@
-![Selection Sort](../assets/selection_sort.png)
+![Selection Sort](../assets/selection_sort1.png)
 
 Selection Sort (Seçmeli Sıralama) algoritmasında, her bir iterasyonda en küçük eleman tespit edildiği için seçerek sıralama algoritması adını almıştır. İterasyon bittiğinde dizi değerleri içerisinden tespit edilen en küçük değer başa alınarak birinci eleman yapılır. Sonraki iterasyonlarda ise küçük sayı arama işlemine bir sonraki sayıdan (ikinci sayıdan, üçüncü sayıdan, dördüncü sayıdan,….n.sayıdan) başlanılarak küçükten büyüğe olacak şekilde sola kaydırılır. Yani önceki iterasyonda işi biten eleman sonraki iterasyonlara dahil edilmez.
 
